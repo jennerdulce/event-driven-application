@@ -7,7 +7,7 @@
 ### Links and Resources
 
 - [ci/cd](https://github.com/jennerdulce/event-driven-application/actions) (GitHub Actions)
-- [Pull Request](https://github.com/jennerdulce/event-driven-application/pull/1)
+- [Pull Request](https://github.com/jennerdulce/event-driven-application/pull/2)
 
 ### Setup
 
