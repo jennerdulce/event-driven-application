@@ -18,6 +18,11 @@ function inTransit(payload) {
   }, 3000)
 }
 
+module.exports = {
+  pickUpItem: pickUpItem,
+  inTransit: inTransit
+}
+
 // setTimeout(() => {
 //   // will take 3 seconds to complete
 // }, 3000)

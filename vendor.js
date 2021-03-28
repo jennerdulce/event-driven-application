@@ -27,3 +27,7 @@ function hasBeenDelievered(payload) {
   console.log(`***DELIEVERED PACKAGE ${payload.orderId} ON ${new Date()}`)
 }
 
+module.exports = {
+  startFunction: startFunction,
+  hasBeenDelievered: hasBeenDelievered
+}
